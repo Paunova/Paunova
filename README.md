@@ -1,7 +1,9 @@
 ### Здраво! 👋
 
-My name is Simona. Software developer since 2017. My working experience covers front-end, back-end, databases and design. 
-Operating in two modes, as an apprentice and as a mentor. Bringing multiple points of view to the development process (DEV, QA & UX)
+![IMG_9566](https://user-images.githubusercontent.com/11878249/144746799-f9d8a15e-6ca3-49cf-8620-fd2bcc2ad85f.jpg)
+
+<!-- My name is Simona. Software developer since 2017. My working experience covers front-end, back-end, databases and design. 
+Operating in two modes, as an apprentice and as a mentor. Bringing multiple points of view to the development process (DEV, QA & UX) -->
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/spaunova/) 
 [![Follow on Stackoverflow](https://img.shields.io/badge/--stackoverflow?label=stackoverflow&logo=stackoverflow&style=social)](https://stackoverflow.com/users/5270768/simona-paunova)
